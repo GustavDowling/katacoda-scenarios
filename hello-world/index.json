@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Mutation Testing With PIT",
+  "description": "Blah blah blah",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
@@ -18,9 +18,9 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\u001b[m\r\n"
   },
   "backend": {
-    "imageid": "docker"
+    "imageid": "java"
   }
 }
