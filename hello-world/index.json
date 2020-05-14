@@ -1,6 +1,6 @@
 {
   "title": "Mutation Testing With PIT",
-  "description": "Blah blah blah",
+  "description": "Get started with automatic mutation testing using the PIT maven plugin",
   "difficulty": "beginner",
   "time": "30 minutes",
   "details": {
