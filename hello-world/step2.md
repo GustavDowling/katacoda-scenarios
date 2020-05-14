@@ -18,4 +18,13 @@ We can already see some results on the command line, you should see that it kill
 
 A more detailed log is saved as an HTML file in [fix]. 
 
-For this part of the tutorial, you will need to copy this html file to your computer and run it in your browser as Katacoda doesn't let us view html files.
+Due to Katacoda limitations we can not view the HTML file in this environment, if you copy all the files in the folder at [fix] then you can open the HTML file in your browser. Easier is to just look at the screenshots below, from an HTML report generated using the same test suite and program as you are using. 
+
+image11
+
+Here we see the code and mutation coverage, 
+
+image12
+
+
+
