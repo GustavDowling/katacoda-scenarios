@@ -30,4 +30,8 @@ You can copy and paste this in the text editor here in Katacoda. Then compile th
 
 `mvn org.pitest:pitest-maven:mutationCoverage`{{execute}}
 
+Congratulations! 
+
+It should now have downloaded the plugin and run the mutation test on an empty test suite with only an "assert(true)", 
+
 
