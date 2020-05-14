@@ -9,8 +9,16 @@
       "text": "step1.md"
     },
     {
-      "title": "Step 2 - Run first mutation test",
+      "title": "Step 2 - First test suite",
       "text": "step2.md"
+    },
+    {
+      "title": "Step 3 - Second test suite",
+      "text": "step3.md"
+    },
+    {
+      "title": "Step 4 - Advanced Configurations",
+      "text": "step4.md"
     }],
     "intro": {
       "text": "intro.md",
