@@ -19,8 +19,6 @@
   "environment": {
     "uilayout": "editor-terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\u001b[m\r\n"
-    "showdashboard": true,
-    "dashboards": {"name": "URL", "href": "https://www.katacoda.com"}
   },
   "backend": {
     "imageid": "java8"
