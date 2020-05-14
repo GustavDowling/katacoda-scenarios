@@ -17,7 +17,7 @@
     }
   },
   "environment": {
-    "uilayout": "editor-terminal",
+    "uilayout": "terminal-iframe",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\u001b[m\r\n"
   },
   "backend": {
