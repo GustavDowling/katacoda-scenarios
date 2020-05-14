@@ -6,7 +6,7 @@ First we need a Maven project. In this tutorial we will use the project "Triangl
 
 To clone his repository we run:
 
-`git clone https://github.com/GustavDowling/MutationTesting.git && cd TriangleType`{{execute}}
+`git clone https://github.com/GustavDowling/MutationTesting.git && cd MutationTesting && cd TriangleType`{{execute}}
 
 This project includes a simple program in App.java with testcases in AppTest.java . Compile and run the program once.
 
